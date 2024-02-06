@@ -6,6 +6,12 @@
     <title>php 배열</title>
 </head>
 <body>
+
+
+?>
+
+
+
     <h1>배열</h1>
     <pre>
         $배열명 = array();
